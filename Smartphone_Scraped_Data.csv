@@ -1,0 +1,135 @@
+Brand,Name,MRP,Discount_Price,Reviews,Discount_percentage
+Apple,"APPLE iPhone 12 (Blue, 64 GB)","₹49,900","₹40,999",4.6,17% off
+Apple,"APPLE iPhone 14 (Blue, 128 GB)","₹69,900","₹60,999",4.6,12% off
+Apple,"APPLE iPhone 12 (Black, 64 GB)","₹49,900","₹40,999",4.6,17% off
+Apple,"APPLE iPhone 14 (Starlight, 128 GB)","₹69,900","₹61,999",4.6,11% off
+Apple,"APPLE iPhone 12 (Green, 64 GB)","₹49,900","₹41,999",4.6,15% off
+Apple,"APPLE iPhone 12 (White, 64 GB)","₹49,900","₹41,999",4.6,15% off
+Apple,"APPLE iPhone 15 (Blue, 128 GB)","₹54,900","₹79,900",4.6,14% off
+Apple,"APPLE iPhone 12 (Blue, 128 GB)","₹69,900","₹46,999",4.6,11% off
+Apple,"APPLE iPhone 14 (Midnight, 128 GB)","₹79,900","₹61,999",4.6,12% off
+Apple,"APPLE iPhone 14 Plus (Blue, 128 GB)","₹79,900","₹69,999",4.6,13% off
+Apple,"APPLE iPhone 14 Plus (Starlight, 128 GB)","₹69,900","₹68,999",4.6,11% off
+Apple,"APPLE iPhone 15 (Black, 128 GB)","₹79,900","₹79,900",4.6,9% off
+Apple,"APPLE iPhone 14 (Purple, 128 GB)","₹79,900","₹61,999",4.6,11% off
+Apple,"APPLE iPhone 14 (Purple, 256 GB)","₹79,900","₹71,999",4.6,12% off
+Apple,"APPLE iPhone 14 (Blue, 256 GB)","₹79,900","₹70,999",4.6,9% off
+Apple,"APPLE iPhone 15 (Green, 128 GB)","₹79,900","₹79,900",4.6,9% off
+Apple,"APPLE iPhone 14 Plus (Midnight, 128 GB)","₹54,900","₹69,999",4.6,12% off
+Apple,"APPLE iPhone 14 (Midnight, 256 GB)","₹54,900","₹71,999",4.6,12% off
+Apple,"APPLE iPhone 14 (Starlight, 256 GB)","₹79,900","₹71,999",4.6,12% off
+Samsung,"SAMSUNG Galaxy F13 (Waterfall Blue, 64 GB)","₹14,999","₹8,199",4.3,45% off
+Samsung,"SAMSUNG Galaxy F13 (Nightsky Green, 64 GB)","₹14,999","₹8,199",4.3,45% off
+Samsung,"SAMSUNG Galaxy F13 (Sunrise Copper, 64 GB)","₹14,999","₹8,199",4.3,45% off
+Samsung,"SAMSUNG Galaxy F14 5G (B.A.E. Purple, 128 GB)","₹17,490","₹13,990",4.2,20% off
+Samsung,"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)","₹17,490","₹13,990",4.2,20% off
+Samsung,"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)","₹18,990","₹13,989",4.2,26% off
+Samsung,"SAMSUNG Galaxy F54 5G (Stardust Silver, 256 GB)","₹35,999","₹30,999",4.2,13% off
+Samsung,"SAMSUNG Galaxy F34 5G (Mystic Green, 128 GB)","₹25,999","₹21,999",4.2,15% off
+Samsung,"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)","₹18,990","₹13,999",4.2,26% off
+Samsung,"SAMSUNG Galaxy F13 (Waterfall Blue, 128 GB)","₹16,999","₹9,199",4.3,45% off
+Samsung,"SAMSUNG Galaxy F14 5G (GOAT Green, 128 GB)","₹18,490","₹14,990",4.2,18% off
+Samsung,"SAMSUNG Galaxy S21 FE 5G (Graphite, 128 GB)","₹74,999","₹31,999",4.3,57% off
+Samsung,SAMSUNG Guru Music 2,"₹2,899","₹2,880",4.3,13% off
+Samsung,SAMSUNG Guru Music 2,"₹2,899","₹2,499",3.9,25% off
+Samsung,"SAMSUNG Galaxy M14 5G (Smoky Teal, 128 GB)","₹17,989","₹13,337",4.2,32% off
+Samsung,"SAMSUNG Galaxy M04 (Light Green, 64 GB)","₹11,999","₹8,045",4.1,41% off
+Samsung,"SAMSUNG Galaxy S22 5G (Green, 128 GB)","₹85,999","₹49,999",4.4,57% off
+Samsung,"SAMSUNG Galaxy S21 FE 5G (Olive Green, 128 GB)","₹74,999","₹31,999",4.3,45% off
+Samsung,"SAMSUNG Galaxy F13 (Nightsky Green, 128 GB)","₹16,999","₹9,199",4.3,26% off
+Samsung,"SAMSUNG Galaxy M14 5G (Icy Silver, 128 GB)","₹18,990","₹13,900",4.2,45% off
+Samsung,"SAMSUNG Galaxy F13 (Sunrise Copper, 128 GB)","₹16,999","₹9,199",4.3,14% off
+Samsung,"SAMSUNG Galaxy A14 5G (Black, 128 GB)","₹20,999","₹17,999",4.1,35% off
+Samsung,"SAMSUNG Galaxy M04 (Dark Blue, 64 GB)","₹11,999","₹7,788",4.1,18% off
+OnePluse,"OnePlus Nord CE 2 Lite 5G (Blue Tide, 128 GB)","₹19,999","₹16,958",4.4,15% off
+OnePluse,"OnePlus Nord CE 2 Lite 5G (Black Dusk, 128 GB)","₹19,999","₹16,940",4.4,15% off
+OnePluse,"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 256 GB)","₹21,999","₹21,748",4.4,1% off
+OnePluse,"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)","₹21,999","₹21,720",4.4,1% off
+OnePluse,"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 128 GB)","₹19,999","₹19,778",4.4,1% off
+OnePluse,"OnePlus Nord CE 3 Lite 5G (Pastel lime, 256 GB)","₹21,999","₹21,820",4.4,4% off
+OnePluse,"OnePlus Nord CE 3 Lite 5G (Chromatic Gray, 256 GB)","₹21,999","₹21,910",4.4,1% off
+OnePluse,"OnePlus Nord CE 3 Lite 5G (Pastel Lime, 128 GB)","₹19,999","₹19,918",4.4,5% off
+OnePluse,"OnePlus Nord CE3 5G (Grey Shimmer, 256 GB)","₹28,999","₹28,988",4.4,4% off
+OnePluse,"OnePlus Nord CE3 5G (Aqua Surge, 128 GB)","₹26,999","₹25,890",4.4,2% off
+OnePluse,"OnePlus Nord CE3 5G (Grey Shimmer, 128 GB)","₹19,999","₹26,999",4.4,4% off
+Realme,"realme C53 (Champion Black, 64 GB)","₹12,999","₹9,999",4.4,23% off
+Realme,"realme C53 (Champion Gold, 64 GB)","₹12,999","₹9,999",4.4,23% off
+Realme,"realme C51 (Carbon Black, 64 GB)","₹10,999","₹8,999",4.3,18% off
+Realme,"realme C53 (Champion Black, 128 GB)","₹11,999","₹9,999",4.1,16% off
+Realme,"realme C53 (Champion Gold, 128 GB)","₹11,999","₹9,999",4.1,16% off
+Realme,"realme 9i 5G (Rocking Black, 64 GB)","₹17,999","₹11,999",4.4,33% off
+Realme,"realme 11x 5G (Purple Dawn, 128 GB)","₹18,999","₹15,999",4.3,15% off
+Realme,"realme C51 (Mint Green, 64 GB)","₹10,999","₹8,999",4.3,18% off
+Realme,"realme 11x 5G (Purple Dawn, 128 GB)","₹16,999","₹14,999",4.4,11% off
+Realme,"realme 11x 5G (Midnight Black, 128 GB)","₹18,999","₹15,999",4.3,15% off
+Realme,"realme Narzo N53 (Feather Black, 128 GB)","₹12,999","₹10,518",4.2,19% off
+Realme,"realme Narzo N53 (Feather Black, 64 GB)","₹10,999","₹8,974",4.2,18% off
+Realme,"realme Narzo N53 (Feather Gold, 128 GB)","₹12,999","₹10,457",4.2,19% off
+Realme,"realme 11x 5G (Midnight Black, 128 GB)","₹16,999","₹14,999",4.4,11% off
+Realme,"realme Narzo N53 (Feather Gold, 64 GB)","₹10,999","₹8,798",4.2,20% off
+Realme,"realme 11 Pro+ 5G (Oasis Green, 256 GB)","₹32,999","₹29,999",4.3,9% off
+Realme,"realme Narzo N53 (Feather Black, 128 GB)","₹13,999","₹11,682",4,16% off
+Realme,"realme 11 Pro+ 5G (Astral Black, 256 GB)","₹29,999","₹27,999",4.3,6% off
+Realme,"realme 11 Pro+ 5G (Oasis Green, 256 GB)","₹29,999","₹27,999",4.3,6% off
+Realme,"realme 11 Pro+ 5G (Sunrise Beige, 256 GB)","₹29,999","₹27,999",4.3,6% off
+Realme,"realme C53 (Champion Gold, 128 GB)","₹13,999","₹11,999",4.4,14% off
+Realme,"realme 11 Pro+ 5G (Astral Black, 256 GB)","₹32,999","₹29,999",4.3,9% off
+Realme,"realme 11 Pro+ 5G (Sunrise Beige, 256 GB)","₹32,999","₹29,999",4.3,9% off
+Realme,"realme 11 5G (Glory Gold, 128 GB)","₹20,999","₹18,999",4.3,9% off
+Oppo,"OPPO Reno10 5G (Silvery Grey, 256 GB)","₹38,999","₹32,999",4.2,15% off
+Oppo,"OPPO Reno10 5G (Ice Blue, 256 GB)","₹38,999","₹32,999",4.2,15% off
+Oppo,"OPPO A58 (Glowing Black, 128 GB)","₹15,499","₹13,999",4.3,9% off
+Oppo,"OPPO A58 (Dazzling Green, 128 GB)","₹15,499","₹13,999",4.3,9% off
+Oppo,"OPPO Reno10 Pro 5G (Glossy Purple, 256 GB)","₹44,999","₹39,999",4.3,11% off
+Oppo,"OPPO A78 5G (Glowing Black, 128 GB)","₹21,999","₹18,999",4.3,13% off
+Oppo,"OPPO A78 5G (Glowing Blue, 128 GB)","₹21,999","₹18,999",4.3,13% off
+Oppo,"OPPO Reno10 Pro 5G (Silvery Grey, 256 GB)","₹44,999","₹39,999",4.3,11% off
+Oppo,"OPPO A17k (Blue, 64 GB)","₹12,999","₹8,999",4.5,30% off
+Oppo,"OPPO A18 (Glowing Blue, 128 GB)","₹15,999","₹11,499",4.3,28% off
+Oppo,"OPPO A18 (Glowing Black, 64 GB)","₹14,999","₹9,999",4.3,33% off
+Oppo,"OPPO A18 (Glowing Blue, 64 GB)","₹14,999","₹9,999",4.3,33% off
+Oppo,"OPPO A79 5G (Mystery Black, 128 GB)","₹22,999","₹19,999",4.4,13% off
+Oppo,"OPPO A17 (Lake Blue, 64 GB)","₹14,999","₹11,499",4.3,23% off
+Oppo,"OPPO A79 5G (Glowing Green, 128 GB)","₹22,999","₹19,999",4.4,13% off
+Oppo,"OPPO A38 (Glowing Black, 128 GB)","₹16,999","₹12,999",4.3,23% off
+Oppo,"OPPO A38 (Glowing Gold, 128 GB)","₹16,999","₹12,999",4.3,23% off
+Oppo,"OPPO F21s Pro (Dawnlight Gold, 128 GB)","₹27,999","₹19,999",4.2,28% off
+Oppo,"OPPO Reno10 Pro+ 5G (Silvery Grey, 256 GB)","₹59,999","₹54,999",4.5,8% off
+Oppo,"OPPO A17 (Midnight Black, 64 GB)","₹14,999","₹11,499",4.3,23% off
+Oppo,"OPPO A18 (Glowing Black, 64 GB)","₹14,999","₹9,487",4.3,36% off
+Oppo,"OPPO A78 (Aqua Green, 128 GB)","₹22,999","₹16,499",4.3,28% off
+Oppo,"OPPO A78 (Mist Black, 128 GB)","₹22,999","₹16,499",4.3,28% off
+Oppo,"OPPO A17k (Navy Blue, 64 GB)","₹12,999","₹8,999",4.5,30% off
+Vivo,"vivo T2x 5G (Aurora Gold, 128 GB)","₹17,999","₹11,999",4.4,33% off
+Vivo,"vivo T2x 5G (Marine Blue, 128 GB)","₹20,999","₹14,999",4.3,28% off
+Vivo,"vivo T2x 5G (Aurora Gold, 128 GB)","₹20,999","₹14,999",4.3,28% off
+Vivo,"vivo T2x 5G (Glimmer Black, 128 GB)","₹20,999","₹14,999",4.3,28% off
+Vivo,"vivo T2x 5G (Glimmer Black, 128 GB)","₹18,999","₹12,999",4.4,31% off
+Vivo,"vivo T2x 5G (Aurora Gold, 128 GB)","₹18,999","₹12,999",4.4,31% off
+Vivo,"vivo T2x 5G (Marine Blue, 128 GB)","₹17,999","₹11,999",4.4,33% off
+Vivo,"vivo T2x 5G (Glimmer Black, 128 GB)","₹17,999","₹11,999",4.4,33% off
+Vivo,"vivo T2 Pro 5G (Dune Gold, 128 GB)","₹26,999","₹23,999",4.5,11% off
+Vivo,"vivo T2 5G (Velocity Wave, 128 GB)","₹23,999","₹17,999",4.4,25% off
+Vivo,"vivo T2 Pro 5G (New Moon Black, 128 GB)","₹26,999","₹23,999",4.5,11% off
+Vivo,"vivo T2 Pro 5G (Dune Gold, 256 GB)","₹27,999","₹24,999",4.5,10% off
+Vivo,"vivo T2 Pro 5G (New Moon Black, 256 GB)","₹27,999","₹24,999",4.5,10% off
+Vivo,"vivo T2 5G (Velocity Wave, 128 GB)","₹24,999","₹19,999",4.3,20% off
+Vivo,"vivo T2 5G (Nitro Blaze, 128 GB)","₹23,999","₹17,999",4.4,25% off
+Vivo,"vivo T2 5G (Nitro Blaze, 128 GB)","₹24,999","₹19,999",4.3,20% off
+Vivo,"vivo V29 5G (Red, 256 GB)","₹15,999","₹36,999",4.4,43% off
+Vivo,"vivo Y02t (Cosmic Grey, 64 GB)","₹15,999","₹8,999",4.2,43% off
+Google,"Google Pixel 7a (Charcoal, 128 GB)","₹43,999","₹39,999",4.1,9% off
+Google,"Google Pixel 7a (Sea, 128 GB)","₹43,999","₹39,999",4.1,9% off
+Google,"Google Pixel 7a (Snow, 128 GB)","₹43,999","₹39,999",4.1,9% off
+Google,"Google Pixel 6a (Charcoal, 128 GB)","₹43,999","₹30,999",4.3,29% off
+Google,"Google Pixel 7 Pro (Snow, 128 GB)","₹84,999","₹69,999",4.3,17% off
+Google,"Google Pixel 6a (Chalk, 128 GB)","₹43,999","₹30,999",4.3,29% off
+Google,"Google Pixel 7 Pro (Obsidian, 128 GB)","₹84,999","₹69,999",4.3,17% off
+Google,"Google Pixel 7a (Coral, 128 GB)","₹43,999","₹39,999",4.1,9% off
+Google,"Google Pixel 7 (Snow, 128 GB)","₹59,999","₹49,999",4.3,16% off
+Google,"Google Pixel 7 (Lemongrass, 128 GB)","₹59,999","₹49,999",4.3,16% off
+Google,"Google Pixel 7 Pro (Hazel, 128 GB)","₹84,999","₹69,999",4.3,17% off
+Google,"Google Pixel 7 (Obsidian, 128 GB)","₹59,999","₹49,999",4.3,16% off
+Google,"Google Pixel 8 (Obsidian, 128 GB)","₹24,999","₹75,999",4.3,9% off
+Google,"Google Pixel 8 Pro (Obsidian, 128 GB)","₹22,999","₹1,06,999",4.4,6% off
+Google,"Google Pixel 8 Pro (Obsidian, 256 GB)","₹21,999","₹1,13,999",4.4,22% off
