@@ -7,7 +7,7 @@ Welcome to the "Smartphone Data Analysis" project repository! In this project, w
    - **Tools Used:** Python libraries such as BeautifulSoup, pandas, requests, and csv.
    - **Outcome:** A comprehensive dataset containing information on different smartphone models, their specifications, and prices.
 
-## 2. [Smartphone Data Cleaning](Smartphone%20Data%20Cleaning.ipynb)
+## 2. [Smartphone Data Cleaning](https://github.com/PranjalDhamane/Smartphone_Data_Analysis/blob/main/Smartphone_Data_Cleaning.ipynb)
    - **Objective:** Focus on essential data cleaning and transformation steps using numpy and pandas.
    - **Tasks:** Address missing values, handle outliers, and structure the data for meaningful analysis.
    - **Outcome:** A clean and well-organized dataset ready for in-depth exploratory data analysis.
