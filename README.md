@@ -12,7 +12,7 @@ Welcome to the "Smartphone Data Analysis" project repository! In this project, w
    - **Tasks:** Address missing values, handle outliers, and structure the data for meaningful analysis.
    - **Outcome:** A clean and well-organized dataset ready for in-depth exploratory data analysis.
 
-## 3. [Smartphone Exploratory Data Analysis](Smartphone%20Exploratory%20Data%20Analysis.ipynb)
+## 3. [Smartphone Exploratory Data Analysis](https://github.com/PranjalDhamane/Smartphone_Data_Analysis/blob/main/Smartphone%20Exploratory%20Data%20Analysis.ipynb)
    - **Objective:** Delve into exploratory data analysis using pandas, matplotlib, and seaborn.
    - **Methods:** Apply statistical analysis and visualizations to uncover patterns, trends, and relationships within the smartphone data.
    - **Outcome:** Gain insights into market trends, popular features, and price distribution for informed decision-making.
