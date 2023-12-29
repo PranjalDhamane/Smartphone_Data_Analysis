@@ -2,7 +2,7 @@
 
 Welcome to the "Smartphone Data Analysis" project repository! In this project, we explore and analyze smartphone data to extract insights into various aspects of the market. The analysis is organized into three Jupyter Notebook files, each serving a specific purpose:
 
-## 1. [Smartphone Web Scraping From Flipkart](https://github.com/PranjalDhamane/Smartphone_Data_Analysis/blob/main/Smartphone_Web_Scrapping_From_Filpkart.ipynb)]
+## 1. [Smartphone Web Scraping From Flipkart](https://github.com/PranjalDhamane/Smartphone_Data_Analysis/blob/main/Smartphone_Web_Scrapping_From_Filpkart.ipynb)
    - **Objective:** Utilize web scraping techniques to extract smartphone data from Flipkart.
    - **Tools Used:** Python libraries such as BeautifulSoup, pandas, requests, and csv.
    - **Outcome:** A comprehensive dataset containing information on different smartphone models, their specifications, and prices.
